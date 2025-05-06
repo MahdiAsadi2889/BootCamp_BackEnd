@@ -1,0 +1,12 @@
+{
+  "name": "first-number",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+"start": "nodemon node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
